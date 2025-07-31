@@ -1,10 +1,10 @@
 # 🛡️ Threat Hunt: Zero-Day Ransomware (PwnCrypt) on Windows VM
 
-**Author:** James Moore  
-**Date:** April 21, 2025  
+**Author:** Richmond Trias 
+**Date:** July 31, 2025  
 **Lab Type:** Threat Hunting / Ransomware Detection / MITRE ATT&CK Mapping  
 
-![ChatGPT Image Apr 22, 2025, 01_46_57 AM](https://github.com/user-attachments/assets/aaac6f92-0404-4e30-af80-4e888852ef67)
+![ChatGPT Image Jul 31, 2025, 01_46_57 AM](https://github.com/user-attachments/assets/aaac6f92-0404-4e30-af80-4e888852ef67)
 
 ---
 
@@ -28,7 +28,7 @@ DeviceFileEvents
 
 📸 **DeviceFileEvents with `pwncrypt.ps1**
 
-<img width="750" alt="Screen Shot 2025-04-21 at 9 43 59 PM" src="https://github.com/user-attachments/assets/c771b7b8-b9cb-410d-a836-2ff6bfb52294" />
+<img width="750" alt="Screen Shot 2025-07-31 at 9 43 59 PM" src="https://github.com/user-attachments/assets/c771b7b8-b9cb-410d-a836-2ff6bfb52294" />
 
 ---
 
@@ -51,7 +51,7 @@ DeviceProcessEvents
 
 📸 **PowerShell and CMD.exe launch chains with `cyberlab123` account**  
 
-<img width="750" alt="Screen Shot 2025-04-21 at 10 39 47 PM" src="https://github.com/user-attachments/assets/d8b849e2-a463-4735-bf71-5b24b39da955" />
+<img width="750" alt="Screen Shot 2025-07-31 at 10 39 47 PM" src="https://github.com/user-attachments/assets/d8b849e2-a463-4735-bf71-5b24b39da955" />
 
 ---
 
@@ -70,7 +70,7 @@ DeviceProcessEvents
 
 📸 **-EncodedCommand`**  
 
-<img width="800" alt="Screen Shot 2025-04-21 at 10 42 16 PM" src="https://github.com/user-attachments/assets/bad60259-13e8-470f-8bfa-3c99e1ce06a0" />
+<img width="800" alt="Screen Shot 2025-07-31 at 10 42 16 PM" src="https://github.com/user-attachments/assets/bad60259-13e8-470f-8bfa-3c99e1ce06a0" />
 
 ---
 
