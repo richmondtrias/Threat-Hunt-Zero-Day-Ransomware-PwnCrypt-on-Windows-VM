@@ -1,6 +1,6 @@
 # 🛡️ Threat Hunt: Zero-Day Ransomware (PwnCrypt) on Windows VM
 
-**Author:** Richmond Trias 
+**Author:** Richmond Trias
 **Date:** July 31, 2025  
 **Lab Type:** Threat Hunting / Ransomware Detection / MITRE ATT&CK Mapping  
 
